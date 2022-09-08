@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greetings</string>
+    <string name="display">Hello, Aniket!</string>
+    <string name="hello">Hello, Aniket!</string>
+</resources>
